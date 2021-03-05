@@ -1,0 +1,71 @@
+/* CSS for "Healing the Light Within" */
+body {
+    background-color: #769c86;
+    font-family: 'Lemonada', cursive;
+    bottom: 0;
+    text-align: center;
+} 
+
+h1 {
+    background-color: #744587;
+    text-align: center;
+    font-size: 60px;
+    margin: -.5em -.14em .5em -.5em;
+    padding-left: .9em;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    margin-bottom: -.8em;
+}
+
+/* This is for the Nav bar */
+.navbar {
+    display: flex;
+    background-color: #fff021;
+    margin: -2.75rem -.5rem .5rem -.5rem;
+}
+  
+.navbar a {
+    font-size: 20px;
+    color: black;
+    padding: 15px 20px;
+    text-decoration: none;
+    text-align: center;
+}
+  
+.navbar a:hover {
+    background-color: plum;
+    color: black;
+}
+
+.navbar a.page {
+    border-bottom: 10px solid #744587;
+}
+
+/* To Do */
+.MainBody {
+    color: black;
+}
+
+h2 {
+    font-size: 75px;
+}
+
+h3 {
+    font-size: 35px;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-bottom: 2em;
+}
+
+.grid {
+    display: flex;
+}
+
+.Bio {
+    font-size: 18px;
+    margin-top: -.5em;
+    padding-left: 4em;
+}
